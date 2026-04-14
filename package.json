@@ -1,1 +1,0 @@
-{"name":"paper-trader-no-key","version":"1.0.0","description":"Paper Trading Bot — Yahoo Finance Live Prices — No API Key Needed","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18.0.0"}}
